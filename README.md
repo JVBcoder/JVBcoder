@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JVBcoder
 - 👀 I’m interested in find a tech job 
-- 🌱 I’m currently learning JavaScript and improving my HTML & CSS skills
+- 🌱 I’m currently learning frameworks as ReactJS or Angular and improving daily my HTML & CSS & Javascript skills
 - 📫 How to reach me -> Twitter & Instagram: JVBcode
 
 <!---
